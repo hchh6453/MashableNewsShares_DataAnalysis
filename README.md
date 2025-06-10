@@ -7,6 +7,8 @@
 * Models
   * Decision Tree
   * Random Forest
+  * XGBoost
+  * LightGBM
 
 ### Resource
 * UCI Online News Popularity Data Set
