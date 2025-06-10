@@ -37,7 +37,7 @@ This project applies several classification models to identify influential featu
   3. `data_channel_is_world`: 33.85
   4. `kw_avg_avg`: 29.74
   5. `data_channel_is_socmed`: 28.35
-  6. `is_weekend`: 28.281101
+  6. `is_weekend`: 28.28
 
 > According to the results, the data channel categories have the greatest impact on the number of shares, especially the *entertainment*, *tech*, *world* and *social media* channels.
 
