@@ -1,6 +1,7 @@
 ##  Mashable News Shares - Data Analysis
 **Period**: March 2025 – June 2025  
 **Goal**: Practice structured data analysis and explore what features boost online news shares.
+**Link**: [My Kaggle code](https://www.kaggle.com/code/sharon305/structured-data-practicing)
 
 ---
 
