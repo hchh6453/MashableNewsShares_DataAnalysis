@@ -30,7 +30,15 @@ This project applies several classification models to identify influential featu
 ---
 
 ### Outcome
-* accuracy: 0.51
+* **Accuracy**: 0.66  
+* **Top 5 Important Features** (based on feature importance):
+  1. `data_channel_is_entertainment`: 33.26  
+  2. `data_channel_is_tech`: 18.26  
+  3. `data_channel_is_socmed`: 15.97  
+  4. `is_weekend`: 13.51  
+  5. `kw_avg_avg`: 8.60  
+
+> According to the results, the data channel categories have the greatest impact on the number of shares, especially the *entertainment*, *tech*, and *social media* channels.
 
 ---
 
